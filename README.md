@@ -4,6 +4,14 @@ A Next.js 16 + TypeScript app built as a take-home technical assessment. It demo
 
 ---
 
+## Screenshots
+
+| User list | Add user form | User profile |
+|---|---|---|
+| ![User list](docs/screenshots/user-list.png) | ![Add user form](docs/screenshots/add-user.png) | ![User profile](docs/screenshots/user-profile.png) |
+
+---
+
 ## Setup
 
 Requires **Node.js 20+**.
