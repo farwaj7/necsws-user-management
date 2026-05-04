@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  /* GOV.UK Design System colour palette */
+  --color-govuk-blue: #1d70b8;
+  --color-govuk-blue-hover: #144e81;
+  --color-govuk-green: #00703c;
+  --color-govuk-green-hover: #005a30;
+  --color-govuk-focus: #ffdd00;
+  --color-govuk-error: #d4351c;
+  --color-govuk-text: #0b0c0c;
+  --color-govuk-secondary-text: #505a5f;
+  --color-govuk-border: #b1b4b6;
+  --color-govuk-border-dark: #0b0c0c;
+  --color-govuk-light-grey: #f3f2f1;
+  /* GOV.UK visited link colour */
+  --color-govuk-link-visited: #4c2c92;
+
+  /* Typography */
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
